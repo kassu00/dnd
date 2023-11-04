@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Uskonto  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Historia  ",
+      "color": {
+        "a": 1,
+        "rgb": 225905
+      }
+    },
+    {
+      "query": "tag:#Maantiede  ",
+      "color": {
+        "a": 1,
+        "rgb": 1382803
+      }
+    },
+    {
+      "query": "tag:#Henkilö  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662960
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.35819498697917,
+  "lineSizeMultiplier": 1.80192057291667,
+  "collapse-forces": false,
+  "centerStrength": 0.397379557291667,
+  "repelStrength": 19.6590169270833,
+  "linkStrength": 0.262125651041667,
+  "linkDistance": 148,
+  "scale": 0.42341206907800055,
+  "close": true
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "30b1c16cf0adcd10",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8ecb452b01c1375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cb4549d7fed1f9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ralfonin kirjaston arvoitukset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "450114a5b9d5ea67",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a358be6667255f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30fd3617025e07a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28a1a5faf27384b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Henkilö",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c31219580a3902a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a258900448717bd1",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "5e987266027bf10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a54f3bc28ad751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8362b1add5293aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ralfonin kirjaston arvoitukset.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2534af23f87eb96c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ralfonin kirjaston arvoitukset.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6041444c5f3ea9e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d39d2895f73ce21c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ralfonin kirjaston arvoitukset.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "7cb4549d7fed1f9b",
+  "lastOpenFiles": [
+    "Grozan salaliitto.md",
+    "Grozan diaari.md",
+    "Sankarittaren runo.md",
+    "Sankarin runo.md",
+    "Keson Neljä.md",
+    "Shûlumir.md",
+    "Werdaeg.md",
+    "Drieny Koldhazâd.md",
+    "Maisteri Balasár.md",
+    "Arkkimaaagi Azhar.md",
+    "Shiva.md",
+    "Lekhêz.md",
+    "Elhe.md",
+    "Kastellin Maisteri Groza.md",
+    "Ulthâzin akolyytit.md",
+    "Rhindelgâl.md",
+    "Pohjoisen kapina.md",
+    "Vaskilaiset.md",
+    "Bôl-Thazâdin hautatornit.md",
+    "Ikilehdot.md",
+    "Bassem A'jabar.md",
+    "Balokim A'jabar.md",
+    "Keson valtakunta.md",
+    "Ralfonin kirjaston arvoitukset.md",
+    "Selemdûr.md",
+    "Ralfon.md",
+    "Shûlumir kartta.png",
+    "Selemdûr kartta.png",
+    "Pasted image 20231103105151.png",
+    "Untitled.canvas",
+    "Sôru-agazin kartta.png"
+  ]
+}
