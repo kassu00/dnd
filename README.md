@@ -5,4 +5,8 @@ Repositoriossa käytetään .md formaatia ja [Wikilink](https://en.wikipedia.org
 
 Muistiinpanot luotu [Obsidianilla](https://obsidian.md/) 
 
-
+<ul>
+  {% for page in site.pages %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}  <!-- page -->
+</ul>
