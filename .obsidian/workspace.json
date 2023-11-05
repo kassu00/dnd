@@ -11,13 +11,8 @@
             "id": "7cb4549d7fed1f9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ralfonin kirjaston arvoitukset.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ralfonin kirjaston arvoitukset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ralfonin kirjaston arvoitukset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ralfonin kirjaston arvoitukset.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,43 +151,46 @@
   },
   "active": "7cb4549d7fed1f9b",
   "lastOpenFiles": [
+    "Ûhm-gwe.md",
+    "site/index.markdown",
+    "site/_posts/2023-11-05-welcome-to-jekyll.markdown",
+    "site/_posts",
+    "site/404.html",
+    "Zahhak A'jabar.md",
+    "Werdaeg.md",
+    "Vaskilaiset.md",
+    "Ulthâzin akolyytit.md",
+    "Ulthâz.md",
+    "Terhon Tynnyri.md",
+    "Sôru-agazin kartta.png",
+    "Sôru-agaz.md",
+    "Shûlumir kartta.png",
+    "Shiva.md",
+    "Shial-Nagheraz.md",
+    "Selemdûrin Maagikilta.md",
+    "Selemdûr.md",
+    "Selemdûr kartta.png",
+    "Sankarittaren runo.md",
+    "Sankarin runo.md",
+    "Rhindelgâl.md",
+    "Ralfonin konservatorio.md",
+    "Ralfonin kirjaston arvoitukset.md",
+    "Ralfonin Sointuseppä.md",
+    "README.md",
+    "Pohjoisen kapina.md",
+    "Pasted image 20231103105151.png",
+    "Ordo hereticus.md",
+    "Mädättyminen.md",
+    "Mielo.md",
+    "Maisteri Balasár.md",
+    "Läntinen mantere.md",
+    "Lekhêz.md",
+    "CNAME",
     "dnd/_posts/2023-11-05-welcome-to-jekyll.markdown",
     "dnd/index.markdown",
     "dnd/about.markdown",
     "dnd/_posts",
     "dnd/_config.yml",
-    "dnd/Gemfile",
-    "dnd/404.html",
-    "dnd",
-    "Grozan salaliitto.md",
-    "Grozan diaari.md",
-    "Sankarittaren runo.md",
-    "Sankarin runo.md",
-    "Keson Neljä.md",
-    "Shûlumir.md",
-    "Werdaeg.md",
-    "Drieny Koldhazâd.md",
-    "Maisteri Balasár.md",
-    "Arkkimaaagi Azhar.md",
-    "Shiva.md",
-    "Lekhêz.md",
-    "Elhe.md",
-    "Kastellin Maisteri Groza.md",
-    "Ulthâzin akolyytit.md",
-    "Rhindelgâl.md",
-    "Pohjoisen kapina.md",
-    "Vaskilaiset.md",
-    "Bôl-Thazâdin hautatornit.md",
-    "Ikilehdot.md",
-    "Bassem A'jabar.md",
-    "Balokim A'jabar.md",
-    "Keson valtakunta.md",
-    "Ralfonin kirjaston arvoitukset.md",
-    "Selemdûr.md",
-    "Shûlumir kartta.png",
-    "Selemdûr kartta.png",
-    "Pasted image 20231103105151.png",
-    "Untitled.canvas",
-    "Sôru-agazin kartta.png"
+    "Untitled.canvas"
   ]
 }
