@@ -7,6 +7,6 @@ Muistiinpanot luotu [Obsidianilla](https://obsidian.md/)
 
 <ul>
   {% for page in site.pages %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          <li><a href="{{ page.url }}">{{ page.url }}</a></li>
   {% endfor %}  <!-- page -->
 </ul>
