@@ -10,5 +10,5 @@ Yksi Ulthâzin alaisista jumalista muinaisessa kääpiöuskonnossa:
 >Nöyränä herraamme palvoo 
 >Siis maljamme hänelle nouskoon"*
 >\ 
->*[[Bôl-Thazâdin portin kirjoitus]]*
+>*[Bôl-Thazâdin portin kirjoitus](Bôl-Thazâdin%20portin%20kirjoitus.md)*
 

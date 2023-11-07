@@ -4,6 +4,6 @@ tags:
   - Henkilö/Elossa
   - Henkilö/Ihminen
 ---
-[[A'jabarin suku|A'jabarin suvun]] johtaja. 
+[A'jabarin suvun](A'jabarin%20suku.md) johtaja. 
 
-[[Balokim A'jabar]]in veli.
+[Balokim A'jabar](Balokim%20A'jabar.md)in veli.

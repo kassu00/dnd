@@ -2,4 +2,4 @@
 tags:
   - Historia/Tapahtuma
 ---
-Noin 1935 [[Drieny Koldhazâd]] paikkeilla käyty sota [[Vanhat jumalat|vanhojen jumalien]] joukkojen ja [[Selemdûr|Selemdûrin]], [[Juurlaki|Juurlaen]] ja [[Keson valtakunta|Keson]] valtakuntien joukkojen välillä.
+Noin 1935 [Drieny Koldhazâd](Drieny%20Koldhazâd.md) paikkeilla käyty sota [vanhojen jumalien](Vanhat%20jumalat.md) joukkojen ja [Selemdûrin](Selemdûr.md), [Juurlaen](Juurlaki.md) ja [Keson](Keson%20valtakunta.md) valtakuntien joukkojen välillä.

@@ -2,6 +2,6 @@
 tags:
   - Henkilö/Kuollut
 ---
-[[Bôl-Thazâdin hautatornit| Bôl-Thazâdin hautatorniin]] kuollut kirjuri. Kirjasi ylös [[Mädättyminen|mädättymisen]] kulkua [[Grozan diaari]]ssa.
+[ Bôl-Thazâdin hautatorniin](Bôl-Thazâdin%20hautatornit.md) kuollut kirjuri. Kirjasi ylös [mädättymisen](Mädättyminen.md) kulkua [Grozan diaari](Grozan%20diaari.md)ssa.
 
 

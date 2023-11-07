@@ -4,7 +4,7 @@ tags:
 ---
 
 
-Ordo bellos on [[Elhen kirkko|Elhen kirkon]] sodankäyntiin erikoistunut lahko.
+Ordo bellos on [Elhen kirkon](Elhen%20kirkko.md) sodankäyntiin erikoistunut lahko.
 
 #### Tunnettuja henkilöitä
 - 

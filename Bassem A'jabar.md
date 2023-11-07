@@ -7,6 +7,6 @@ tags:
 aliases:
   - Iso Luu
 ---
-[[Ûhm-gwe]]läinen kansansankari. Hänen teoistaan kerrotaan lukuisia tarinoita ja lauluja.
+[Ûhm-gwe](Ûhm-gwe.md)läinen kansansankari. Hänen teoistaan kerrotaan lukuisia tarinoita ja lauluja.
 
-[[A'jabarin suku]] sai alkunsa Bassem A'jabarista.
+[A'jabarin suku](A'jabarin%20suku.md) sai alkunsa Bassem A'jabarista.

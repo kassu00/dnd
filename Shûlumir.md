@@ -2,6 +2,6 @@
 tags:
   - Maantiede/Kaupunki
 ---
-Muinainen kääpiökaupunki [[Sôru-agaz]]issa, jonka väestö kuoli oletettavasti [[Groteski kulkutauti|Serovin vitsaukseen]], puolustaessaan [[Bôl-Thazâdin kadonnut kaupunki]]a. Kaupunki sijaitsee vuorien ympäröimässä laaksossa, mantereen pohjoispuolella.
+Muinainen kääpiökaupunki [Sôru-agaz](Sôru-agaz.md)issa, jonka väestö kuoli oletettavasti [Serovin vitsaukseen](Groteski%20kulkutauti.md), puolustaessaan [Bôl-Thazâdin kadonnut kaupunki](Bôl-Thazâdin%20kadonnut%20kaupunki.md)a. Kaupunki sijaitsee vuorien ympäröimässä laaksossa, mantereen pohjoispuolella.
 
-![[Shûlumir kartta.png]]
+![Shûlumir kartta](Shûlumir%20kartta.png)

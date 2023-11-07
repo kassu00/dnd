@@ -2,4 +2,4 @@
 tags:
   - Maantiede/Kaupunki
 ---
-Kääpiökaupunki [[Sôru-agaz|Sôru-agazin]] mantereella.
+Kääpiökaupunki [Sôru-agazin](Sôru-agaz.md) mantereella.

@@ -2,9 +2,9 @@
 tags:
   - Maantiede/Mantere
 ---
-Eteläinen manner, josta saapuu aika-ajoin matkalaisia ja [[Orjakauppa|orjia]] [[Sôru-agaz]]iin.
+Eteläinen manner, josta saapuu aika-ajoin matkalaisia ja [orjia](Orjakauppa) [Sôru-agaz](Sôru-agaz.md)iin.
 
-Kuuluisa [[A'jabarin suku]] on kotoisin Ûhm-gwen alueelta.
+Kuuluisa [A'jabarin suku](A'jabarin%20suku.md) on kotoisin Ûhm-gwen alueelta.
 
 
 #### Ûhm-gwen läänit:

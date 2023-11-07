@@ -8,8 +8,8 @@ tags:
 >Kuulet varmasti lauluja Werdaegin 
 >Kääpiö sankari mahtavin 
 >Ylpeys baardien kirkkahin."*
->*- [[Ralfonin kirjasto|Ralfonin kirjaston vanha siipi]]*
+>*- [Ralfonin kirjaston vanha siipi](Ralfonin%20kirjasto.md)*
 
-Kääpiösankari, joka on legendan mukaan istuttanut [[Ikilehdot]].
-Werdaegiin viittaavissa asiayhteyksissä mainitaan usein myös [[Mielo|Mieloksi]] kutsuttu nainen.
+Kääpiösankari, joka on legendan mukaan istuttanut [Ikilehdot](Ikilehdot.md).
+Werdaegiin viittaavissa asiayhteyksissä mainitaan usein myös [Mieloksi](Mielo.md) kutsuttu nainen.
 

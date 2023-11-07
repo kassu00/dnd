@@ -2,4 +2,4 @@
 tags:
   - Uskonto/Järjestö
 ---
-Ordo hereticus on [[Elhen kirkko|Elhen kirkon]] puhdasoppisuuteen erikoistunut lahko.
+Ordo hereticus on [Elhen kirkon](Elhen%20kirkko.md) puhdasoppisuuteen erikoistunut lahko.

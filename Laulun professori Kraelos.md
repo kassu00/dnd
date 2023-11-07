@@ -2,6 +2,6 @@
 tags:
   - Henkilö/Elossa
 ---
-[[Ralfonin konservatorio|Ralfonin yliopiston]] laulun professori.
+[Ralfonin yliopiston](Ralfonin%20konservatorio.md) laulun professori.
 
-Koonnut yhteen [[Ikilehdon runo|Ikilehdon runon]].
+Koonnut yhteen [Ikilehdon runon](Ikilehdon%20runo.md).

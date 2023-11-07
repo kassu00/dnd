@@ -2,31 +2,31 @@
 tags:
   - Maantiede/Mantere
 ---
-Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [[Ûhm-gwe|Ûhm-gwen]] mantere, pohjoisesta [[Pohjoinen mantere]] ja lännestä [[Läntinen mantere|läntinen mantere]].
+Tämän hetkisen tiedon mukaan lähellä maailman keskiötä sijaitseva iso manner. Sitä ympäröi etelästä [Ûhm-gwen](Ûhm-gwe.md) mantere, pohjoisesta [Pohjoinen mantere](Pohjoinen%20mantere) ja lännestä [läntinen mantere](Läntinen%20mantere.md).
 
-Sôru-agazin lounaispuolella sijaitsee [[Gêrin saarivaltio]], josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
+Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio.md), josta käydään runsaasti kauppaa mantereen puolen kaupunkien kanssa.
 
 
 #### Historia
-[[Elhen kirkko]] kertoo [[Elhe|Elhen]] lyöneen mantereen kahtia taistellessaan [[Vanhat jumalat|vanhoja jumalia]] vastaan, luoden samalla Sôru-agazin halki leikkaavan [[Kita|kidan]].
+[Elhen kirkko](Elhen%20kirkko.md) kertoo [Elhen](Elhe.md) lyöneen mantereen kahtia taistellessaan [vanhoja jumalia](Vanhat%20jumalat.md) vastaan, luoden samalla Sôru-agazin halki leikkaavan [kidan](Kita).
 
 
 #### Sôru-agazin läänit:
-1. [[Elhen Kuningaskunta]]
-2. [[Rulindínin Haltija-maat]]
-3. [[Nori-Koldazhâd / Pohjoiset Kääpiö-maat]]
-4. [[Gre'Lekus / Grelekin saaristo]]
-6. [[Ralfonin Suur-lääni]]
-7. [[Vuorimaat]]
+1. [Elhen Kuningaskunta](Elhen%20Kuningaskunta)
+2. [Rulindínin Haltija-maat](Rulindínin%20Haltija-maat.md)
+3. [Nori-Koldazhâd / Pohjoiset Kääpiö-maat](Nori-Koldazhâd%20/%20Pohjoiset%20Kääpiö-maat)
+4. [Gre'Lekus / Grelekin saaristo](Gre'Lekus%20/%20Grelekin%20saaristo)
+6. [Ralfonin Suur-lääni](Ralfonin%20Suur-lääni)
+7. [Vuorimaat](Vuorimaat)
 
 #### Sôru-agazin tärkeitä kaupunkeja:
-- [[Ralfon]]
-- [[Bôl-Nirduhr]]
-- [[Bôl-Thazâd]]
-- [[Selemdûr]]
-- [[Bôl-Kolduhr]]
-- [[Shûlumirin Laakso]]
+- [Ralfon](Ralfon.md)
+- [Bôl-Nirduhr](Bôl-Nirduhr)
+- [Bôl-Thazâd](Bôl-Thazâd.md)
+- [Selemdûr](Selemdûr.md)
+- [Bôl-Kolduhr](Bôl-Kolduhr.md)
+- [Shûlumirin Laakso](Shûlumirin%20Laakso)
 - 
 
 
-![[Sôru-agazin kartta.png]]
+![Sôru-agazin kartta](Sôru-agazin%20kartta.png)

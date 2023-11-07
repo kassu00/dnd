@@ -2,9 +2,9 @@
 tags:
   - Historia/Tekstit
 ---
-Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän [[Ikilehdot|ikilehdoista]]. Löytynyt mm. [[Maisteri Balasár|Balasarin]] muistiinpanoista sekä [[Ralfonin kirjasto|Ralfonin kirjastosta]]
+Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän [ikilehdoista](Ikilehdot.md). Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
 
-Runon parina pidetään [[Sankarittaren runo|Sankarittaren runoa]] joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
+Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
 
 ###### Runon säkeet:
 

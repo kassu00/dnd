@@ -4,10 +4,10 @@ tags:
   - Henkilö/Grelekki
   - Henkilö/Elossa
 ---
-[[Selemdûrin Maagikilta|Selemdûrin Maagikillan]] arkkimaagi ja johtaja.
+[Selemdûrin Maagikillan](Selemdûrin%20Maagikilta.md) arkkimaagi ja johtaja.
 
-Pitää kirkolta salassa hallussaan [[Kalman sydän|Kalman sydäntä]]. Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [[Maisteri Balasár]] vaikuta luottavan häneen täysin.
+Pitää kirkolta salassa hallussaan [Kalman sydäntä](Kalman%20sydän). Hänen aikeensa eivät ole selvät, eikä hänen alaisensa [Maisteri Balasár](Maisteri%20Balasár.md) vaikuta luottavan häneen täysin.
 
 ###### Yhteydet:
-[[Maisteri Balasár]]
-[[Selemdûrin Maagikilta]]
+[Maisteri Balasár](Maisteri%20Balasár.md)
+[Selemdûrin Maagikilta](Selemdûrin%20Maagikilta.md)

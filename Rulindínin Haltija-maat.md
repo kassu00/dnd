@@ -2,7 +2,7 @@
 tags:
   - Maantiede/Lääni
 ---
-[[Sôru-agaz|Sôru-agazin]] mantereen eteläisin lääni.
+[Sôru-agazin](Sôru-agaz.md) mantereen eteläisin lääni.
 
 ###### Aluella vaikuttavat järjestöt:
-- [[Ilkvestin haltijasuku]]
+- [Ilkvestin haltijasuku](Ilkvestin%20haltijasuku.md)

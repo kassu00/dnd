@@ -6,4 +6,4 @@ aliases:
 ---
 Jumalhahmo, johon viitataan useimmissa teksteissä nimellä "Syvyyden Serovi". 
 
-[[Bôl-Thazâdin kadonnut kaupunki|Bôl-Thazâdin kadonneesta kaupungin]] hautatorneista löytynyt  [[Kastellin Maisteri Groza]] kuvaa kirjelmässään Nagherazin joukkojen etenemistä kohti [[Karkaiskoivu|Karkaiskoivua]]. Kirjelmissään hän kertoo kulkutaudista, joka kulkee [[Pohjoisen kapina]] joukkojen keskuudessa. Tautiin ja sen leviämiseen viitataan teksteissä nimellä [[Mädättyminen]].
+[Bôl-Thazâdin kadonneesta kaupungin](Bôl-Thazâdin%20kadonnut%20kaupunki.md) hautatorneista löytynyt  [Kastellin Maisteri Groza](Kastellin%20Maisteri%20Groza.md) kuvaa kirjelmässään Nagherazin joukkojen etenemistä kohti [Karkaiskoivua](Karkaiskoivu.md). Kirjelmissään hän kertoo kulkutaudista, joka kulkee [Pohjoisen kapina](Pohjoisen%20kapina.md) joukkojen keskuudessa. Tautiin ja sen leviämiseen viitataan teksteissä nimellä [Mädättyminen](Mädättyminen.md).

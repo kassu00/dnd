@@ -9,12 +9,4 @@ Repositoriossa käytetään .md formaatia ja [Wikilink](https://en.wikipedia.org
 
 Muistiinpanot luotu [Obsidianilla](https://obsidian.md/) 
 
-<div style="padding 10px; border: 1px solid #ccc">
-<div style="height: 20vh; overflow-y: auto; margin: 10px">
-  <ul>
-    {% for page in site.pages %}
-      <li><a href="{{ page.url }}">{{ page.name }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
-</div>
+

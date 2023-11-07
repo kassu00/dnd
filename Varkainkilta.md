@@ -4,11 +4,11 @@ tags:
   - Historia/Järjestö
 ---
 Alamaailman toimintaa johtava järjestö, jonka jäsenistö koostuu rikollisista ja hylkiöistä.
-Varkainkillalla on laajasti tietoa [[Sôru-agaz]]issa tapahtumista.
+Varkainkillalla on laajasti tietoa [Sôru-agaz](Sôru-agaz.md)issa tapahtumista.
 
-Varkainkilta osallistuu [[Orjakauppa|orjakauppaan]]
+Varkainkilta osallistuu [orjakauppaan](Orjakauppa)
 
 ###### Tunnettuja jäseniä:
-[[Shiva]]
-[[Korsto]]
-[[Alton]]
+[Shiva](Shiva.md)
+[Korsto](Korsto)
+[Alton](Alton)

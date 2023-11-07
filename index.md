@@ -9,6 +9,10 @@ Repositoriossa käytetään .md formaatia ja [Wikilink](https://en.wikipedia.org
 
 Muistiinpanot luotu [Obsidianilla](https://obsidian.md/) 
 
+
+
+<p>{{"[linkki](Elhe.md)" | wikilinks_to_markdown}} </p>
+
 <div style="padding 10px; border: 1px solid #ccc">
 <div style="height: 20vh; overflow-y: auto; margin: 10px">
   <ul>
@@ -18,3 +22,4 @@ Muistiinpanot luotu [Obsidianilla](https://obsidian.md/)
   </ul>
 </div>
 </div>
+

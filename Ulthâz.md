@@ -13,12 +13,12 @@ tags:
 >Herransa käskyjä totellen 
 >Allaan nöyrtyy alemmat jumalat 
 >Kolme seuraajaa Ulthâzin mahdin"
->- [[Bôl-Thazâdin portin kirjoitus]]*
+>- [Bôl-Thazâdin portin kirjoitus](Bôl-Thazâdin%20portin%20kirjoitus.md)*
 
 
-[[Kääpiöt|Kääpiöiden]] vanhan uskonnon jumala, myrskyn ja salamoiden jumala. Kääpiöiden panteonin pääjumala.
+[Kääpiöiden](Kääpiöt.md) vanhan uskonnon jumala, myrskyn ja salamoiden jumala. Kääpiöiden panteonin pääjumala.
 
-Ulthâzin pyhättö sijaitsee [[Bôl-Thazâdin kadonnut kaupunki|Bôl-Thazâdin kadonnut kaupungissa]]
+Ulthâzin pyhättö sijaitsee [Bôl-Thazâdin kadonnut kaupungissa](Bôl-Thazâdin%20kadonnut%20kaupunki.md)
 
 Ulthâzdin kerrotaan alistaneen kolme heikompaa jumalaa allensa, joihin viitataaen esimerkiksi Bôl-Thazaâdin porteilla:
 
@@ -28,7 +28,7 @@ Ulthâzdin kerrotaan alistaneen kolme heikompaa jumalaa allensa, joihin viitataa
 
 Ulthazin alistamat jumalat ovat:
 
-- [[Grezli]]
-- [[Arnâz]]
-- [[Lekhêz]]
+- [Grezli](Grezli.md)
+- [Arnâz](Arnâz.md)
+- [Lekhêz](Lekhêz.md)
 - 

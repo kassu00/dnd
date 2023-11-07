@@ -11,8 +11,13 @@
             "id": "7cb4549d7fed1f9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Selemdûrin Maagikilta.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Selemdûrin Maagikilta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Selemdûrin Maagikilta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Selemdûrin Maagikilta.md"
+              }
             }
           }
         ],
@@ -151,6 +160,7 @@
   },
   "active": "7cb4549d7fed1f9b",
   "lastOpenFiles": [
+    "Arkkimaaagi Azhar.md",
     "Ûhm-gwe.md",
     "site/index.markdown",
     "site/_posts/2023-11-05-welcome-to-jekyll.markdown",
@@ -184,7 +194,6 @@
     "Mielo.md",
     "Maisteri Balasár.md",
     "Läntinen mantere.md",
-    "Lekhêz.md",
     "CNAME",
     "dnd/_posts/2023-11-05-welcome-to-jekyll.markdown",
     "dnd/index.markdown",

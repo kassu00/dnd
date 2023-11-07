@@ -2,7 +2,7 @@
 tags:
   - Historia/Tekstit
 ---
-Runo, joka kertoo [[Ikilehdoista]] ja [[Mielo|Mielosta]]
+Runo, joka kertoo [Ikilehdoista](Ikilehdoista) ja [Mielosta](Mielo.md)
 
 ###### Runon säkeet:
 
@@ -23,7 +23,7 @@ Runo, joka kertoo [[Ikilehdoista]] ja [[Mielo|Mielosta]]
 >
 >Alla katseiden vanhojen jumalten 
 >Yllä vesien harmaiden 
->Alla [[Bôl-Thazâdin hautatornit|Kivisten tornien]] mahtavien 
+>Alla [Kivisten tornien](Bôl-Thazâdin%20hautatornit.md) mahtavien 
 >Yllä Urhojen kuolleiden 
 >
 >Lehtien lapojen leputtaessa 

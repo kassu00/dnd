@@ -2,4 +2,4 @@
 tags:
   - Historia/Tapahtuma
 ---
-[[Pohjoisen kapina|Pohjoisen kapinan]] aikana levinnyt kulkutauti, joka vaikuttaa liittyvän [[Shial-Nagheraz|Shial-Nagherazin]]
+[Pohjoisen kapinan](Pohjoisen%20kapina.md) aikana levinnyt kulkutauti, joka vaikuttaa liittyvän [Shial-Nagherazin](Shial-Nagheraz.md)

@@ -6,4 +6,4 @@ tags:
 
 Aatelinen haltijasuku. 
 
-Ilkevestin suvun edustajien ja [[Elhen kirkko|Elhen kirkon]] välillä on paljastunut salaista kirjeenvaihtoa liittyen [[Groteski kulkutauti|leviävään kulkutautiin]].
+Ilkevestin suvun edustajien ja [Elhen kirkon](Elhen%20kirkko.md) välillä on paljastunut salaista kirjeenvaihtoa liittyen [leviävään kulkutautiin](Groteski%20kulkutauti.md).

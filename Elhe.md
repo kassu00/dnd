@@ -3,6 +3,6 @@ tags:
   - Uskonto/Jumala
   - Historia/Sankari
 ---
-[[Sôru-agaz|Sôru agazin]] tunnetuin jumala. Nousi väitetysti kuolevaisesta jumalaksi nousun vuonna 0, tapahtumassa, jota kutsutaan [[Elhen nouseminen|Elhen nousuksi]].
+[Sôru agazin](Sôru-agaz.md) tunnetuin jumala. Nousi väitetysti kuolevaisesta jumalaksi nousun vuonna 0, tapahtumassa, jota kutsutaan [Elhen nousuksi](Elhen%20nouseminen.md).
 
-[[Grozan diaari]] implikoi Elhen olleen "Lohikäärmeen kasvatti".
+[Grozan diaari](Grozan%20diaari.md) implikoi Elhen olleen "Lohikäärmeen kasvatti".

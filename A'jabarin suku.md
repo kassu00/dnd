@@ -3,14 +3,14 @@ tags:
   - Historia/Suku
   - Historia/Ihmiset
 ---
-[[Ûhm-gwe]]läinen aatelissuku, jonka jäsenet ovat [[Bassem A'jabar]] jälkeläisiä.
+[Ûhm-gwe](Ûhm-gwe.md)läinen aatelissuku, jonka jäsenet ovat [Bassem A'jabar](Bassem%20A'jabar.md) jälkeläisiä.
 
-A'jabarin suku vaikuttaa [[Arnakeshin valtakunta|Arnakeshin valtakunnan]] alueella.
+A'jabarin suku vaikuttaa [Arnakeshin valtakunnan](Arnakeshin%20valtakunta.md) alueella.
 
 Suvun toiminta on viime polvien aikana vinoutunut, ja suvun historian kertomuksissa on lukuisia ristiriitoja.
 
 ###### Tunnetut jäsenet:
-- [[Bassem A'jabar]]
-- [[Zahhak A'jabar]]
-- [[Balokim A'jabar]]
+- [Bassem A'jabar](Bassem%20A'jabar.md)
+- [Zahhak A'jabar](Zahhak%20A'jabar.md)
+- [Balokim A'jabar](Balokim%20A'jabar.md)
 - 

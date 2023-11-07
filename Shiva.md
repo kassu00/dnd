@@ -3,4 +3,4 @@ tags:
   - Henkilö/Ihminen
   - Henkilö/Elossa
 ---
-[[Gêrin saarivaltio|Gêriläinen]] Varkainkillan jäsen.
+[Gêriläinen](Gêrin%20saarivaltio.md) Varkainkillan jäsen.

@@ -2,5 +2,5 @@
 tags:
   - Maantiede/Kaupunki
 ---
-Velhojen ja maagien kaupunki [[Sôru-agaz]]in länsiosissa. Selemûr sijaitsee [[Lakeus|Länsi-Lakeuden]] alueella.
-![[Selemdûr kartta.png]]
+Velhojen ja maagien kaupunki [Sôru-agaz](Sôru-agaz.md)in länsiosissa. Selemûr sijaitsee [Länsi-Lakeuden](Lakeus) alueella.
+![Selemdûr kartta](Selemdûr%20kartta.png)

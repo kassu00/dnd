@@ -3,9 +3,9 @@ tags:
   - Historia/Henkilö
 ---
 >*"Ei muisteta Ralfonin sankaria 
->Vain [[Sankarittaren runo|yks laulu]] nimeään kantaa 
+>Vain [yks laulu](Sankarittaren%20runo.md) nimeään kantaa 
 >Muisto vain sankarin puolisona 
 >Vaan ei teoista Mielon laulella"*
->- [[Ralfonin kirjasto|Ralfonin kirjaston vanha siipi]]
+>- [Ralfonin kirjaston vanha siipi](Ralfonin%20kirjasto.md)
 
-Tuntematon nainen, joka esiintyy useissa [[Werdaeg|Werdaegiin]] ja [[Ikilehdot|Ikilehtoihin]] viittaavissa materiaaleissa.
+Tuntematon nainen, joka esiintyy useissa [Werdaegiin](Werdaeg.md) ja [Ikilehtoihin](Ikilehdot.md) viittaavissa materiaaleissa.

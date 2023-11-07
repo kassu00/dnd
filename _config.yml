@@ -26,10 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jKaarlehto
 
+
+
+
 # Build settings
 remote_theme: riggraz/no-style-please
+
 plugins:
-  - jekyll-feed
+  - markdown_wikilinks
+
 
 defaults:
   title: {{page.name}}

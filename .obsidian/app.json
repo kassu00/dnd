@@ -3,5 +3,6 @@
   "defaultViewMode": "preview",
   "userIgnoreFilters": [
     "node_modules/"
-  ]
+  ],
+  "useMarkdownLinks": true
 }
