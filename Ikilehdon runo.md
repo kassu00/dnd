@@ -2,7 +2,11 @@
 tags:
   - Historia/Tekstit
 ---
-Runo, joka kertoo [Ikilehdoista](Ikilehdoista) ja [Mielosta](Mielo.md)
+Runo, joka kertoo [Ikilehdoista](Ikilehdoista).
+
+>[!question] Vahvistamaton
+> Runossa esiintyvä nainen on [Mielo](Mielo.md)
+
 
 ###### Runon säkeet:
 

@@ -4,11 +4,8 @@ tags:
   - Henkilö/Kääpiö
   - Historia/Kääpiöt
 ---
->*"Jos saavut kaupunkiin Ralfonin 
->Kuulet varmasti lauluja Werdaegin 
->Kääpiö sankari mahtavin 
->Ylpeys baardien kirkkahin."*
->*- [Ralfonin kirjaston vanha siipi](Ralfonin%20kirjasto.md)*
+>[!quote]
+>![](Ralfonin%20kirjaston%20arvoitukset.md#^75713e)
 
 Kääpiösankari, joka on legendan mukaan istuttanut [Ikilehdot](Ikilehdot.md).
 Werdaegiin viittaavissa asiayhteyksissä mainitaan usein myös [Mieloksi](Mielo.md) kutsuttu nainen.

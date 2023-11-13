@@ -13,4 +13,5 @@ Viimeaikaisten löydösten myötä on löydetty useita merkkejä Vanhojen jumali
 #### Tunnettuja jumalia:
 - [Shial-Nagheraz](Shial-Nagheraz.md)
 - [Malroth](Malroth.md)
+- [A'zelserath](A'zelserath.md)
 - 

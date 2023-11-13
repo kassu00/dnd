@@ -14,10 +14,10 @@ Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio
 #### Sôru-agazin läänit:
 1. [Elhen Kuningaskunta](Elhen%20Kuningaskunta)
 2. [Rulindínin Haltija-maat](Rulindínin%20Haltija-maat.md)
-3. [Nori-Koldazhâd / Pohjoiset Kääpiö-maat](Nori-Koldazhâd%20/%20Pohjoiset%20Kääpiö-maat)
-4. [Gre'Lekus / Grelekin saaristo](Gre'Lekus%20/%20Grelekin%20saaristo)
-6. [Ralfonin Suur-lääni](Ralfonin%20Suur-lääni)
-7. [Vuorimaat](Vuorimaat)
+3. [Pohjoiset Kääpiö-maat](Pohjoiset%20Kääpiö-maat.md)
+4. [Ralfonin Suur-lääni](Ralfonin%20Suur-lääni)
+5. [Gre'Lekus / Grelekin saaristo](Gre'Lekus%20/%20Grelekin%20saaristo)
+6. [Vuorimaat](Vuorimaat)
 
 #### Sôru-agazin tärkeitä kaupunkeja:
 - [Ralfon](Ralfon.md)

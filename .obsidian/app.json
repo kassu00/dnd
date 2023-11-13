@@ -1,8 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "userIgnoreFilters": [
     "node_modules/"
   ],
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }

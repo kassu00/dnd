@@ -1,11 +1,10 @@
 ---
 tags:
   - Historia/Henkilö
+  - Henkilö/Puolituinen
 ---
->*"Ei muisteta Ralfonin sankaria 
->Vain [yks laulu](Sankarittaren%20runo.md) nimeään kantaa 
->Muisto vain sankarin puolisona 
->Vaan ei teoista Mielon laulella"*
->- [Ralfonin kirjaston vanha siipi](Ralfonin%20kirjasto.md)
+>[!quote]
+>![](Ralfonin%20kirjaston%20arvoitukset.md#^ea2dc3)
 
 Tuntematon nainen, joka esiintyy useissa [Werdaegiin](Werdaeg.md) ja [Ikilehtoihin](Ikilehdot.md) viittaavissa materiaaleissa.
+

@@ -7,7 +7,7 @@
   "sortType": "DISPNAME_ASC",
   "sortExactFirst": false,
   "sortTypeTag": "NAME_ASC",
-  "expandLimit": 2,
+  "expandLimit": 5,
   "disableNestedTags": false,
   "hideItems": "NONE",
   "ignoreFolders": "node_modules",

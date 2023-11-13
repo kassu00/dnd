@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cb4549d7fed1f9b",
+            "id": "0f2e1f5cd94548ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selemdûrin Maagikilta.md",
+                "file": "Ralfonin kirjaston arvoitukset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "450bf01cf233127d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sankarin runo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Henkilö",
+                "query": "tag:#Kirjan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,9 +108,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selemdûrin Maagikilta.md",
+                "file": "Ralfonin kirjaston arvoitukset.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Selemdûrin Maagikilta.md",
+                "file": "Ralfonin kirjaston arvoitukset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Selemdûrin Maagikilta.md"
+                "file": "Ralfonin kirjaston arvoitukset.md"
               }
             }
           }
@@ -144,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,52 +167,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "graph:Open graph view": false,
-      "3d-graph:3D Graph": false
+      "graph:Open graph view": false
     }
   },
-  "active": "7cb4549d7fed1f9b",
+  "active": "0f2e1f5cd94548ac",
   "lastOpenFiles": [
-    "Arkkimaaagi Azhar.md",
-    "Ûhm-gwe.md",
+    "Rhindelgâl.md",
+    "Sankarin runo.md",
+    "Ralfonin kirjaston arvoitukset.md",
+    "Keson Neljä.md",
+    "Sankarittaren runo.md",
+    "Mielo.md",
+    "Selemdûrin varastetut kirjeet.md",
+    "Ralfonin konservatorio.md",
+    "Ralfonin Sointuseppä.md",
+    "Pohjoisen kapina.md",
+    "Shial-Nagheraz.md",
+    "Mädättyminen.md",
+    "Ralfonin kirjasto.md",
+    "Ikilehdon runo.md",
+    "Ordo auxiliarus.md",
+    "Werdaeg.md",
+    "Elhen Kuningaskunta.md",
+    "Sôru-agazin kartta.png",
+    "Selemdûr kartta.png",
+    "Länsi-Lakeuden kartta.png",
+    "Shûlumir.md",
+    "Grozan diaari.md",
+    "Elhen kirkko.md",
+    "Ordo bellos.md",
+    "Sôru-agaz.md",
+    "temp.md",
+    "Rulindínin Haltija-maat.md",
+    "Nori-Koldazhâd /Pohjoiset Kääpiö-maat.md",
+    "Nori-Koldazhâd ",
+    "Shûlumir kartta.png",
+    "Shûlumirin kartta.png",
+    "Elhen valtakunnan läntinen kartta.png",
+    "Malroth.md",
+    "Selemdûrin kartta.png",
     "site/index.markdown",
     "site/_posts/2023-11-05-welcome-to-jekyll.markdown",
     "site/_posts",
     "site/404.html",
-    "Zahhak A'jabar.md",
-    "Werdaeg.md",
-    "Vaskilaiset.md",
-    "Ulthâzin akolyytit.md",
-    "Ulthâz.md",
-    "Terhon Tynnyri.md",
-    "Sôru-agazin kartta.png",
-    "Sôru-agaz.md",
-    "Shûlumir kartta.png",
-    "Shiva.md",
-    "Shial-Nagheraz.md",
-    "Selemdûrin Maagikilta.md",
-    "Selemdûr.md",
-    "Selemdûr kartta.png",
-    "Sankarittaren runo.md",
-    "Sankarin runo.md",
-    "Rhindelgâl.md",
-    "Ralfonin konservatorio.md",
-    "Ralfonin kirjaston arvoitukset.md",
-    "Ralfonin Sointuseppä.md",
-    "README.md",
-    "Pohjoisen kapina.md",
-    "Pasted image 20231103105151.png",
-    "Ordo hereticus.md",
-    "Mädättyminen.md",
-    "Mielo.md",
-    "Maisteri Balasár.md",
-    "Läntinen mantere.md",
     "CNAME",
     "dnd/_posts/2023-11-05-welcome-to-jekyll.markdown",
     "dnd/index.markdown",
     "dnd/about.markdown",
     "dnd/_posts",
-    "dnd/_config.yml",
     "Untitled.canvas"
   ]
 }
