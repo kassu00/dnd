@@ -18,7 +18,7 @@ Elhen kirkko panteonissa on Elhen rinnalla myös viisi pienempää jumalaa:
 Elhen kirkko on jakautunut neljään autonomiseen haaraan, joita kutsutaan kirkon inkvisitioiksi.
 Inkivisitioiden johtoporras koostuu eritasoisista [inkvisiittoreista](Inkvisiittorit).
 
-Elhen kirkon neljä inkvisitiota ovat:
+Elhen kirkon kolme lahkoa ovat:
 - [Ordo auxiliarus](Ordo%20auxiliarus.md)
 - [Ordo bellos](Ordo%20bellos.md)
 - [Ordo hereticus](Ordo%20hereticus.md)

@@ -22,7 +22,7 @@ Sôru-agazin lounaispuolella sijaitsee [Gêrin saarivaltio](Gêrin%20saarivaltio
 #### Sôru-agazin tärkeitä kaupunkeja:
 - [Ralfon](Ralfon.md)
 - [Bôl-Nirduhr](Bôl-Nirduhr)
-- [Bôl-Thazâd](Bôl-Thazâd.md)
+- [Shûlumir](Shûlumir.md)
 - [Selemdûr](Selemdûr.md)
 - [Bôl-Kolduhr](Bôl-Kolduhr.md)
 - [Shûlumirin Laakso](Shûlumirin%20Laakso)

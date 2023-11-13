@@ -7,7 +7,7 @@ tags:
 
 ###### Merkittäviä alueita
 
-- [Bôl-Thazâd](Bôl-Thazâd.md)
+- [Bôl-Thazâdin kadonnut kaupunki](Bôl-Thazâdin%20kadonnut%20kaupunki.md)
 - [Bôl-Nirduhr](Bôl-Nirduhr)
 - [Bôl-Kolduhr](Bôl-Kolduhr.md)
 - [Shûlumir](Shûlumir.md)

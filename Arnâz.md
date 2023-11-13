@@ -5,10 +5,6 @@ tags:
 ---
 Yksi Ulthâzin alaisista jumalista muinaisessa kääpiöuskonnossa:
 
->*"Myös itäisten kansojen Arnâz 
->Puustojen paimen, metsien herra 
->Nöyränä herraamme palvoo 
->Siis maljamme hänelle nouskoon"*
->\ 
->*[Bôl-Thazâdin portin kirjoitus](Bôl-Thazâdin%20portin%20kirjoitus.md)*
+>[!quote]
+>![](Bôl-Thazâdin%20portin%20kirjoitus.md#^9f2557)
 

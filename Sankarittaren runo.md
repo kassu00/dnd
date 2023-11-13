@@ -33,7 +33,7 @@ Sieluihin aaltojen uhrien*
 *Halki vehreiden mättäiden 
 Käy mist kaik ovat kadonneet 
 Halki harmaiden hautojen 
-Käy min suomut ei yltäneet* 
+Käy min suomut ei yltäneet*  ^0ae417
 
 *Elämän lähde pulppuaa 
 Tuskan pikeä savuavaa 
@@ -48,5 +48,5 @@ Käy min kaik ovat hautautuneet*
 *Elämän lähde kouristaa 
 Kalmaa rannoilleen oksentaa 
 Torneihin satojen kuolleiden 
-Saleihin muinaisten jumalten*
+Saleihin muinaisten jumalten* ^49799e
 

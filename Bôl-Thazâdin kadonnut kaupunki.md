@@ -3,18 +3,16 @@ tags:
   - Maantiede/Kaupunki
   - Uskonto/Pyhättö
   - Uskonto/Käapiöt
+aliases:
+  - Bôl-Thazâd
 ---
->*"Halki vehreiden mättäiden 
->Käy mist kaik ovat kadonneet 
->Halki harmaiden hautojen 
->Käy min suomut ei yltäneet"*
->\ 
->*[Sankarittaren runo](Sankarittaren%20runo.md)*
+>[!quote]
+>![](Sankarittaren%20runo.md#^0ae417)
 
+Muinainen [Shûlumirin](Shûlumir.md) alle kätketty kääpiökaupunki, jonka historia on hämärän peitossa. Kaupungin linnoituksen edessä ovat [Bôl-Thazâdin hautatornit](Bôl-Thazâdin%20hautatornit.md) ja sen alla kasvaa [Karkaiskoivu](Karkaiskoivu.md)
 
-Muinainen Bôl-Thazâdin alle kätketty kääpiökaupunki, jonka historia on hämärän peitossa. Kaupungin linnoituksen edessä ovat [Bôl-Thazâdin hautatornit](Bôl-Thazâdin%20hautatornit.md) ja sen alla kasvaa [Karkaiskoivu](Karkaiskoivu.md)
-
-Kaupunki toimi [|Ulthâzin](Ulthâz.md) pyhättönä [Ulthâzin akolyyteille](Ulthâzin%20akolyytit.md).
+>[!question] Vahvistamaton 
+Kaupunki toimi [Ulthâzin](Ulthâz.md) pyhättönä [Ulthâzin akolyyteille](Ulthâzin%20akolyytit.md).
 
 ###### Tunnetut henkilöt:
 - [Kastellin Maisteri Groza](Kastellin%20Maisteri%20Groza.md)
