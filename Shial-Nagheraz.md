@@ -4,6 +4,7 @@ tags:
   - Uskonto/Heretiikka
 aliases:
   - Syvyyden Serovi
+  - Muodoton Äiti
 ---
 Jumalhahmo, johon viitataan useimmissa teksteissä nimellä "Syvyyden Serovi". 
 

@@ -10,8 +10,6 @@ Ikilehtoja uskotaan olevan neljä:
 - [Iki-Haapa](Iki-Haapa)
 - [Iki-Saarni](Iki-Saarni)
 - [Iki-Tammi](Iki-Tammi)
-
-
 ###### Ikilehtojen istutus
 
 %%aat-inline-event
@@ -26,3 +24,5 @@ aat-event-title: "Werdaeg istuttaa ikilehdot"
 >>[!quote] Lähde
 >>[Grozan diaari](Grozan%20diaari.md)
 
+###### Maininnat
+ >[!quote] [Ikilehdon runo](Ikilehdon%20runo.md)

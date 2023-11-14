@@ -4,12 +4,16 @@ tags:
   - Lähdemateriaali
   - Uskonto/Tekstit
 ---
-Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän [ikilehdoista](Ikilehdot.md). Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
+Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän.
+
+Runossa esiintyy viittauksia [Ikilehtoihin](Ikilehdot.md), [[Kalman Kammio]]on.
+
+Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
 
 Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
 
 >[!question] Vahvistamaton 
->Runossa mainittu sankari on [Werdaeg](Werdaeg.md)
+>Runossa mainittu sankari on [Werdaeg](Werdaeg.md) tai [[Elhe]]
 
 ###### Lähteet
 - [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-Agazin kartan yltä.
@@ -50,4 +54,12 @@ Käy mit kaik ovat kammoneet*
 *Kalman kammio uinuvana 
 Kivenä makaa murskattuna 
 Iäten kiiltohon vangittuna 
-Kirkkaisiin kynsihin kahlittuna*
+Kirkkaisiin kynsihin kahlittuna* ^be7261
+
+###### Runon tulkinta
+
+Runon säkeistöt voidaan jakaa kahteen vuorottelevaan kertomukseen. Toinen kertoo sankarin matkasta läpi [Sôru-agaz](Sôru-agaz.md)in, toinen taas kertoo [Kalman Kammio](Kalman%20Kammio.md)sta tai kammioista.
+
+>[!question] Vahvistamaton 
+Viimeisessä säkeistössä viitataan [Rhindelgâlin uhraukseen](Rhindelgâlin%20uhraus.md)
+

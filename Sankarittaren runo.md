@@ -4,7 +4,7 @@ tags:
   - Lähdemateriaali
   - Uskonto/Tekstit
 ---
-Runo, joka kertoo sankarittaresta, joka toivoo ammentavansa ikuisen elämän [ikilehdoista](Ikilehdot.md). Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md).
+Runo, joka kertoo sankarittaresta, joka toivoo ammentavansa ikuisen elämän. Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md).
 
 Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee samoja aihepiirejä miessankarin näkökulmasta.
 
@@ -27,7 +27,7 @@ Mahdista elävien mahdista kuolleiden*
 *Käy matkansa kaaoksen sydämeen 
 Raivona vellovaan muodottomuuteen 
 Rajalle kiven ja kudoksen 
-Serovin syleilyyn saastaiseen* 
+Serovin syleilyyn saastaiseen*  ^b3a8bd
 
 *Halki vihreiden lehtojen 
 Käy mist kaik ovat taistelleet 
@@ -59,3 +59,10 @@ Kalmaa rannoilleen oksentaa
 Torneihin satojen kuolleiden 
 Saleihin muinaisten jumalten* ^49799e
 
+###### Runon tulkinta
+
+Runossa mainitaan [Ikilehdot](Ikilehdot.md) ja [[Elämän lähde]]. Ei ole varmaa, ovatko ne sama asia.
+
+Runossa mainitaan "Serovi" jolka viittaa [Shial-Nagheraz](Shial-Nagheraz.md)iin, Syvyyden seroviin. 
+
+Sana "syleily" saattaa myös viitata [Kalmankutu](Kalmankutu.md)un, sillä kutujen uhrien tiedetään tuntevan voimakasta kiintymystä hallitsijaansa. Kutujen ytimenä tiedetään olevan [Kalman sydän](Kalman%20sydän), jota saatetaan kutsua runossa "kaaoksen sydämeksi".
