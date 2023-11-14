@@ -2,6 +2,8 @@
 tags:
   - Historia/Tekstit
   - Historia/Kääpiöt
+  - Lähdemateriaali
+  - Maantiede/Maamerkki
 ---
 Bôl-Thazâdin portissa lukeva teksti. Tekstissä mainitaan useita Kääpiöjumalia
 

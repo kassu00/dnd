@@ -2,4 +2,4 @@
 tags:
   - Historia/Aikakausi
 ---
-[Kääpiöiden](Kääpiöiden) kalenterin kolmas ajanjakso.
+[Kääpiöden](Kääpiöt.md) kalenterin kolmas ajanjakso.

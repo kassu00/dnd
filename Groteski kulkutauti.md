@@ -4,7 +4,8 @@ tags:
 aliases:
   - Serovin vitsaus
 ---
-![Kirjan alkupuolelta](Grozan%20diaari.md#Kirjan%20alkupuolelta)
+>[!quote]
+>![](Grozan%20diaari.md#^a411e9)
 
 ###### Taudin kuvaus
 Tautia käsittelevät tekstit kertovat sen aiheuttavan potilaissaan fyysisiä muutoksia, agressiivisuutta sekä kognitiivista vajaatoimintaa.

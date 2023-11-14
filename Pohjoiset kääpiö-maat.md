@@ -1,9 +1,9 @@
 ---
 tags:
-  - Maantiede/Lääni
   - Historia/Kääpiöt
+  - Maantiede/Valtakunta
 ---
-[Sôru-agaz](Sôru-agaz.md)in pohjoisin lääni. [Kääpiöiden](Kääpiöt.md) kotialuetta.
+[Sôru-agaz](Sôru-agaz.md)in pohjoisin valtakunta. [Kääpiöiden](Kääpiöt.md) kotialuetta.
 
 ###### Merkittäviä alueita
 

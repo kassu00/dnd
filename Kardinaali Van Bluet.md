@@ -4,7 +4,11 @@ tags:
   - Henkilö/Ihminen
   - Henkilö/Johtaja
 ---
-[Elhen kirkon](Elhen%20kirkko.md) kardinaali. Hän on mukana  [leviävään kulkutautiin](Groteski%20kulkutauti.md) liittyvässä selvityksessä.
+[Elhen kirkon](Elhen%20kirkko.md) kardinaali. 
 
-###### Maininnat
-[Selemdûrin varastetut kirjeet](Selemdûrin%20varastetut%20kirjeet.md)
+>[!question] Vahvistamaton 
+>Hän on mukana [leviävään kulkutautiin](Groteski%20kulkutauti.md) liittyvässä selvityksessä.
+>>[!quote] Lähde 
+>>[Selemdûrin varastetut kirjeet](Selemdûrin%20varastetut%20kirjeet.md)
+
+

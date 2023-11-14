@@ -14,6 +14,8 @@ Elhen kirkko panteonissa on Elhen rinnalla myös viisi pienempää jumalaa:
 - Seppä
 - Matkaaja
 
+Elhen kirkon symboliikkaan kuuluu vahvasti sotavasara. Inkivision tunnus on vasara avoimen kirjan yllä.
+
 #### Elhen kirkon hierarkia:
 Elhen kirkko on jakautunut neljään autonomiseen haaraan, joita kutsutaan kirkon inkvisitioiksi.
 Inkivisitioiden johtoporras koostuu eritasoisista [inkvisiittoreista](Inkvisiittorit).

@@ -1,8 +1,10 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nvahvistamaton : >[!question] Vahvistamaton $nl$",
+  "snippets_file": "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$.\n\nmeta : >[!info] Meta $nl$>Sisältää tietoa, jota pelaajahahmot eivät tiedä.\n\naat : aat-event-start-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - historia$nl$\naat-event-body: body$nl$\n\naat-inline : %%aat-inline-event$nl$\naat-event-start-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-title: $nl$\naat-event-body: $nl$\n%%$nl$",
   "snippets": [
-    "snippets : It is an obsidian plugin, that replaces your selected text.",
-    "vahvistamaton : >[!question] Vahvistamaton $nl$"
+    "vahvistamaton : >[!question] Vahvistamaton $nl$>>[!quote] Lähde $nl$.",
+    "meta : >[!info] Meta $nl$>Sisältää tietoa, jota pelaajahahmot eivät tiedä.",
+    "aat : aat-event-start-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - historia$nl$\naat-event-body: body$nl$\n",
+    "aat-inline : %%aat-inline-event$nl$\naat-event-start-date: 1$nl$\naat-render-enabled: true$nl$\ntimelines:$nl$\n  - main$nl$\naat-event-title: $nl$\naat-event-body: $nl$\n%%$nl$"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

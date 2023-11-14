@@ -2,10 +2,14 @@
 tags:
   - Historia/Tekstit
   - Lähdemateriaali
+  - Uskonto/Tekstit
 ---
 Runo, joka kertoo sankarittaresta, joka toivoo ammentavansa ikuisen elämän [ikilehdoista](Ikilehdot.md). Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md).
 
-Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee samoja aihepiirejä naissankarin näkökulmasta.
+Runon parina pidetään [Sankarin runoa](Sankarin%20runo.md) joka käsittelee samoja aihepiirejä miessankarin näkökulmasta.
+
+>[!question] Vahvistamaton 
+>Runossa mainittu nainen on [Mielo](Mielo.md)
 
 ###### Runon säkeet:
 

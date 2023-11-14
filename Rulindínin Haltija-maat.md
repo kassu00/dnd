@@ -1,8 +1,11 @@
 ---
 tags:
-  - Maantiede/Lääni
+  - Maantiede/Valtakunta
+  - Historia/Haltijat
 ---
-[Sôru-agazin](Sôru-agaz.md) mantereen eteläisin lääni. [Haltijoiden](Haltijat.md) kotialuetta.
+[Sôru-agazin](Sôru-agaz.md) mantereen eteläisin valtakunta. [Haltijoiden](Haltijat.md) kotialuetta.
+ 
+
 
 ###### Merkittävät alueet:
 

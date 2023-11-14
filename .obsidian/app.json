@@ -5,5 +5,12 @@
     "node_modules/"
   ],
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

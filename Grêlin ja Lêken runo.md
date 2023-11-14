@@ -3,6 +3,7 @@ tags:
   - Lähdemateriaali
   - Uskonto/Grelekit
   - Historia/Grelekit
+  - Uskonto/Tekstit
 ---
 [Grelekkien](Grelekit.md) kansanruno, joka kertoo miten maailma syntyi [[Greli]] ja [[Leke]] taistelussa.
 

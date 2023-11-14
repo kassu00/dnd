@@ -2,6 +2,7 @@
 tags:
   - Historia/Tekstit
   - Lähdemateriaali
+  - Uskonto/Tekstit
 ---
 Runo, joka kertoo sankarista, joka toivoo ammentavansa ikuisen elämän [ikilehdoista](Ikilehdot.md). Löytynyt mm. [Balasarin](Maisteri%20Balasár.md) muistiinpanoista sekä [Ralfonin kirjastosta](Ralfonin%20kirjasto.md)
 

@@ -1,10 +1,10 @@
 ---
 tags:
   - Historia/Tekstit
-  - Historia/Henkilö
   - Lähdemateriaali
+  - Uskonto/Tekstit
 ---
-Ralfonin kirjaston vanhan siiven uumenista löytyneitä arvoituksia. Jokainen arvoitus on kirjoitettu patsaan jalustalle.
+[[Ralfonin kirjasto]]n vanhan siiven uumenista löytyneitä arvoituksia. Jokainen arvoitus on kirjoitettu patsaan jalustalle.
 
 ###### Kuvaus 
 
@@ -32,7 +32,7 @@ Veljekset taistohon tuoksinassa Maailmain mahtien mittelössä Leken katseessa t
 
 (5) (Celestial) 
 
-Kuolevainen jumalan paikan ottaa Pahuutta pitää hän pilkkanaan Elhe viimeisen tuomion antaa Alle iskunsa Serovin murskaa 
+Kuolevainen jumalan paikan ottaa Pahuutta pitää hän pilkkanaan Elhe viimeisen tuomion antaa Alle iskunsa Serovin murskaa  ^e068c8
 
 (6) (Common) 
 
@@ -42,7 +42,10 @@ Suomut lasin ja hopean kimaltaa Loistoon suojattinsa katoaa Monet uhraukset unoh
 
 (7) (Sylvan) 
 
-Varjossa liekki loistava Vankina kiven ja kudoksen Fei-kuningas Felganarin Malroth odottaa iäti 
+Varjossa liekki loistava 
+Vankina kiven ja kudoksen 
+Fei-kuningas Felganarin
+Malroth odottaa iäti  ^f58a87
 
 (8) (Elvish) 
 

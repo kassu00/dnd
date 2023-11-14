@@ -1,12 +1,11 @@
 ---
 tags:
   - Historia/Tekstit
-  - Historia/Kääpiöt
   - Lähdemateriaali
 ---
 ###### Kirjan alkupuolelta:
 
-Aloitan tämän teoksen laatimisen sekä pakon edessä, että tulevia sukupolvia ajatellen. Tapahtumat, jotka ovat alkaneet näyttää naamaansa [imperiumin](Traakkilainen%20imperiumi.md) kolkissa ovat vähintäänkin huolestuttavia. [Pohjoisen kapina](Pohjoisen%20kapina.md) kiihtyy, kansa näkee nälkää ja uusi [groteski kulkutauti](Groteski%20kulkutauti.md) leviää kaiken tämän kurjuuden keskellä. Monet ovat kanssani eri mieltä, kuten aina, mutta uskon että nämä tapahtumat ovat toisiinsa yhteyksissä muinkin tavoin kuin vain sattumalta. Pyrin parhaani mukaan kirjaamaan ylös merkittävimmät asiainseikat tulevien viikkojen, kuukausien ja vuosien varrelta, jotta tapahtumia ja niiden välisiä yhteyksiä voidaan tarkastella jälkiviisauden linssin lävitse, ettei saman kaltaista katastrofia tapahdu jälleen. Pyydän jo valmiiksi anteeksi tulevilta lukijoilta, sillä tämän teoksen kiireellisen luonteen ja tapahtumien muutos taipumuksen vuoksi, en voi taata tekstin olevan parasta tuotostani, mutta pyrin silti suorittamaan kirjurin tehtäväni parhaimpien kykyjeni mukaisesti. Kastellin Maisteri Groza. 13.11.1934 Drieny Koldhazâd. (edited)
+Aloitan tämän teoksen laatimisen sekä pakon edessä, että tulevia sukupolvia ajatellen. Tapahtumat, jotka ovat alkaneet näyttää naamaansa imperiumin kolkissa ovat vähintäänkin huolestuttavia. [Pohjoisen kapina](Pohjoisen%20kapina.md) kiihtyy, kansa näkee nälkää ja uusi [groteski kulkutauti](Groteski%20kulkutauti.md) leviää kaiken tämän kurjuuden keskellä. Monet ovat kanssani eri mieltä, kuten aina, mutta uskon että nämä tapahtumat ovat toisiinsa yhteyksissä muinkin tavoin kuin vain sattumalta. Pyrin parhaani mukaan kirjaamaan ylös merkittävimmät asiainseikat tulevien viikkojen, kuukausien ja vuosien varrelta, jotta tapahtumia ja niiden välisiä yhteyksiä voidaan tarkastella jälkiviisauden linssin lävitse, ettei saman kaltaista katastrofia tapahdu jälleen. Pyydän jo valmiiksi anteeksi tulevilta lukijoilta, sillä tämän teoksen kiireellisen luonteen ja tapahtumien muutos taipumuksen vuoksi, en voi taata tekstin olevan parasta tuotostani, mutta pyrin silti suorittamaan kirjurin tehtäväni parhaimpien kykyjeni mukaisesti. Kastellin Maisteri Groza. 13.11.1934 Drieny Koldhazâd. (edited) ^a411e9
 
 
 ###### Kirjan keskivaiheilta:

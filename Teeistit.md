@@ -2,4 +2,4 @@
 tags:
   - Uskonto/Järjestö
 ---
-Joukko vanhoja jumalia palvovia henkilöitä. Heitä on nähty kulkevan [Shûlumir](Shûlumir.md)in laakson tienoilla.
+Joukko [vanhoja jumalia](Vanhat%20jumalat.md) palvovia henkilöitä.
