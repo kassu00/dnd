@@ -4,108 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "888bfc60b9a34689",
-        "type": "split",
+        "id": "84e55109c69c34b6",
+        "type": "tabs",
         "children": [
           {
-            "id": "b8499b540ab2b3ba",
-            "type": "split",
-            "dimension": 79.95978552278821,
-            "children": [
-              {
-                "id": "a8ecb452b01c1375",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "71ff2f43829c6435",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  },
-                  {
-                    "id": "d28cbc3c944814aa",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Sankarin runo.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "42a56f7387865d76",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "30ac9d74ef9d6aa6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Läntisen mantereen runo.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+            "id": "c0c638f53a2ba3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaakkoiset Haltijavaltakunnat.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "direction": "vertical"
+            },
+            "group": "aa517ee19c3f77ff"
           },
           {
-            "id": "d8c138efb72ba18c",
-            "type": "tabs",
-            "dimension": 20.040214477211794,
-            "children": [
-              {
-                "id": "40945e44ed0ea305",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Läntisen mantereen runo.md",
-                    "options": {
-                      "collapse-filter": false,
-                      "search": "",
-                      "localJumps": 2,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [],
-                      "collapse-display": false,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 2.32110726643599,
-                      "lineSizeMultiplier": 0.1,
-                      "collapse-forces": false,
-                      "centerStrength": 0,
-                      "repelStrength": 1.6475911631621,
-                      "linkStrength": 0.0072753083133706,
-                      "linkDistance": 50,
-                      "scale": 0.29036020226785003,
-                      "close": true
-                    }
-                  }
-                }
+            "id": "4dd362876c9f8e06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kassus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "1cdf2e4ebf1f46dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8305086720f74464",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Kaakkoiset Haltijavaltakunnat.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.000000000000003,
+                  "close": true
+                }
+              }
+            },
+            "group": "aa517ee19c3f77ff"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,12 +144,42 @@
               "type": "tagfolder-view",
               "state": {}
             }
+          },
+          {
+            "id": "da9f25c9b89d97d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kassus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "646a0eb8c3f4c280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kassus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 552.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,37 +192,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "30ac9d74ef9d6aa6",
+  "active": "4dd362876c9f8e06",
   "lastOpenFiles": [
-    "Ralfonin kirjaston arvoitukset.md",
+    "Kaakkoiset Haltijavaltakunnat.md",
+    "kassus.md",
+    "Sôru-agaz.md",
+    "kassukassu.md",
+    "Salaperäiset riimut.md",
+    "Bôl-Thazâdin kadonnut kaupunki.md",
+    "Maisteri Balasár.md",
+    "Arkkimaaagi Azhar.md",
+    "Varkainkilta.md",
+    "Selemdûrin Maagikilta.md",
+    "Yuhzus.md",
+    "Veli Galindus.md",
+    "Thaer A'jabar.md",
+    "Sisko Modares.md",
+    "Shiva.md",
+    "Ordo auxiliarus.md",
+    "Bôl-Kolduhr.md",
+    "Bassem A'jabar.md",
+    "Ikilehdot.md",
+    "Greli.md",
+    "Balokim A'jabar.md",
+    "Aikajana.md",
     "Läntisen mantereen runo.md",
+    "Ralfonin kirjaston arvoitukset.md",
     "Sankarittaren runo.md",
     "Sankarin runo.md",
-    "Kalman Kammio.md",
-    "Mielo.md",
-    "Ikilehdon runo.md",
-    "Shial-Nagheraz.md",
-    "Rhindelgâlin uhraus.md",
-    "Grêlin ja Lêken runo.md",
-    "Rhindelgâl.md",
-    "A'zelserath.md",
-    "Kalmankutu.md",
-    "Elämän lähde.md",
-    "Ikilehdot.md",
-    "Salaperäiset riimut.md",
-    "Karkaiskoivu.md",
-    "Sankarin runo.md^.md",
-    "Mädättyminen.md",
-    "Grozan diaari.md",
     "Länsi-Lakeuden kartta.png",
-    "Tuoneteer.md",
-    "Drieny Koldhazâd.md",
-    "Vanhat jumalat.md",
-    "Keson valtakunta.md",
     "Sôru-agazin kartta.png",
-    "Jumalhovi.md",
     "Sôru-agazin riimu.png",
-    "Aikajana.md",
     "Selemdûr kartta.png",
     "jumalhovi.png",
     "Elhen vasara.png",
