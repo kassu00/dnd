@@ -1,6 +1,7 @@
 ---
 tags:
   - Uskonto/Jumala
+  - Uskonto/Heretiikka
 aliases:
   - Syvyyden Serovi
 ---

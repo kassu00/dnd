@@ -2,6 +2,7 @@
 tags:
   - Uskonto/Jumala
   - Historia/Aikakausi
+  - Uskonto/Heretiikka
 ---
 >[!quote] Tähtitieteilijän muistiinpanot
 >![](Tähtitieteilijän%20muistiinpanot.md#^25ed69)

@@ -11,6 +11,10 @@ Runon parina pidetään [Sankarittaren runoa](Sankarittaren%20runo.md) joka käs
 >[!question] Vahvistamaton 
 >Runossa mainittu sankari on [Werdaeg](Werdaeg.md)
 
+###### Lähteet
+- [Ralfonin kirjasto](Ralfonin%20kirjasto.md)n vanha siipi, Sôru-Agazin kartan yltä.
+- [Maisteri Balasár](Maisteri%20Balasár.md)in muistiinpanoista.
+
 ###### Runon säkeet:
 
 *Käy matkansa kuoleman sydämeen 

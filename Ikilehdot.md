@@ -15,7 +15,7 @@ Ikilehtoja uskotaan olevan neljä:
 ###### Ikilehtojen istutus
 
 %%aat-inline-event
-aat-event-start-date: -200 
+aat-event-start-date: -500 
 aat-render-enabled: true
 timelines:
   - main

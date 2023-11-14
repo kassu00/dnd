@@ -8,3 +8,7 @@ tags:
 
 Tuntematon nainen, joka esiintyy useissa [Werdaegiin](Werdaeg.md) ja [Ikilehtoihin](Ikilehdot.md) viittaavissa materiaaleissa.
 
+>[!question] Vahvistamaton 
+Mielo saattoi olla maagi. Mieloksi uskotut kuvaukset esittävät hänet usein pitämässä suurta sauvaa.
+>>[!quote] Lähde
+>>[Ralfonin kirjaston arvoitukset](Ralfonin%20kirjaston%20arvoitukset.md)
