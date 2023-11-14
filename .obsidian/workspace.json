@@ -20,22 +20,8 @@
               }
             },
             "group": "aa517ee19c3f77ff"
-          },
-          {
-            "id": "4dd362876c9f8e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kassus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1cdf2e4ebf1f46dd",
@@ -151,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kassus.md",
+                "file": "Kaakkoiset Haltijavaltakunnat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kassus.md",
+                "file": "Kaakkoiset Haltijavaltakunnat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,10 +178,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4dd362876c9f8e06",
+  "active": "c0c638f53a2ba3ab",
   "lastOpenFiles": [
-    "Kaakkoiset Haltijavaltakunnat.md",
     "kassus.md",
+    "Kaakkoiset Haltijavaltakunnat.md",
     "Sôru-agaz.md",
     "kassukassu.md",
     "Salaperäiset riimut.md",
